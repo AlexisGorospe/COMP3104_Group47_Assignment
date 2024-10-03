@@ -1,1 +1,3 @@
-The devops course teaches about developer operations and how to do them 
+The devops course teaches about developer operations and how to do them.
+
+so far, we have learned aboout node package manager, git, and other things
