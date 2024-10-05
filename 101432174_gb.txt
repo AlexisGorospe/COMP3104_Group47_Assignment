@@ -1,4 +1,17 @@
-George Brown College is a leading post-secondary institution located in Toronto, Canada, recognized for its industry-driven educational approach. 
-The college offers diverse programs across fields such as business, technology, healthcare, hospitality, and the arts, designed to meet evolving industry demands. 
-With over 5,000 industry partnerships, George Brown equips students with real-world skills and practical experience, enhancing their job readiness upon graduation. 
-Impressively, the college reports a 93% employment rate within six months of graduation, a testament to its strong industry connections and focus on career development.
+### George Brown College Overview
+
+- Located in **Toronto, Canada**
+- Known for its **industry-driven education**
+
+### Programs Offered:
+- **Business**
+- **Technology**
+- **Healthcare**
+- **Hospitality**
+- **Arts**
+
+### Industry Partnerships:
+- Partners with over **5,000 businesses** for hands-on student training
+
+### Fun Fact:
+- George Brown boasts a **93% employment rate** within **6 months** of graduation, highlighting the strong industry connections and practical experience offered.
