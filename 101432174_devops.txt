@@ -1,4 +1,5 @@
 DevOps integrates development and IT operations by automating and streamlining workflows.
 It enables faster, more reliable software delivery and seamless team collaboration.
 DevOps emphasizes continuous integration and continuous delivery (CI/CD), ensuring rapid feedback and quicker response times.
+Security is also a key focus in DevOps, with practices like DevSecOps integrating security from the start of the development process.
 A key benefit is its ability to reduce lead time for changes, with top-performing organizations deploying updates 46 times faster than their peers.

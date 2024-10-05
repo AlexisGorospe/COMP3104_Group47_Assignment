@@ -1,4 +1,5 @@
 SDLC (Software Development Life Cycle) is a structured process for developing software through defined stages efficiently.
 It covers stages such as planning, design, development, testing, and deployment.
 The SDLC ensures that software is delivered on time, within budget, and meets quality standards.
-An interesting fact is that using a formal SDLC process can reduce software project failure rates by up to 40%, leading to smoother development and more successful outcomes.
+An interesting fact is that using a formal SDLC process can reduce software project failure rates by up to 40%.
+Additionally, SDLC frameworks like Agile have shown to increase overall customer satisfaction by allowing continuous feedback.
