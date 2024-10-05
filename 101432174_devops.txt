@@ -1,1 +1,1 @@
-DevOps integrates development and IT, automating processes to enable faster, reliable software delivery and collaboration.
+DevOps integrates development and IT, automating processes to enable faster,  reliable software delivery and collaboration.
