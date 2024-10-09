@@ -3,3 +3,7 @@ We would have to analyze and evaluate various developer operation implementation
 
 In this course we would be using some of the following resources github, travis-ci, docker, kubernetes, and sonarqube.
 Mainly we would be using github alot as what we are experiencing now in this course.
+
+Some topics that would be discussed in this course is Bash, Git, Version Control for DevOps, Developer Operations Landscape, Hosting 
+High Geared Single Page Applications, Continuos Integration/Continuos Deployment, and so much more, there are a lot of topics and informations
+about this DevOps course.
