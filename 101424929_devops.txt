@@ -1,0 +1,2 @@
+Some information about COMP3104 DevOps course is that we would be learning the procedures, protocols and best practices.
+We would have to analyze and evaluate various developer operation implementations available as a DevOps Engineer 
