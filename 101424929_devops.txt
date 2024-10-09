@@ -1,2 +1,5 @@
 Some information about COMP3104 DevOps course is that we would be learning the procedures, protocols and best practices.
 We would have to analyze and evaluate various developer operation implementations available as a DevOps Engineer 
+
+In this course we would be using some of the following resources github, travis-ci, docker, kubernetes, and sonarqube.
+Mainly we would be using github alot as what we are experiencing now in this course.
