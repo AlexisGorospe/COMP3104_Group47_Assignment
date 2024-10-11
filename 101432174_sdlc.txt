@@ -1,0 +1,17 @@
+### What is SDLC?
+
+The **Software Development Life Cycle (SDLC)** is a **comprehensive framework** guiding software development teams through:
+
+- **Planning**
+- **Design**
+- **Development**
+- **Testing**
+- **Deployment**
+
+### Benefits of SDLC:
+- Ensures timely delivery and adherence to budgets
+- Meets **quality standards** throughout the project
+- Reduces project failure rates by up to **40%**
+
+### Fun Fact:
+- **Agile frameworks** integrated with SDLC boost customer satisfaction by enabling **continuous feedback** and **iterative improvements**, making projects more adaptable.
