@@ -3,3 +3,4 @@ DevOps practices, such as automation and monitoring, significantly improve the e
 The SDLC with DevOps involves continuous feedback and monitoring to ensure software quality.
 .
 .
+.
