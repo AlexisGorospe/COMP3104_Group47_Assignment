@@ -2,3 +2,4 @@ Learning DevOps is essential in modern software development cycles (SDLC) as it 
 DevOps practices, such as automation and monitoring, significantly improve the efficiency and quality of the SDLC, leading to faster and more reliable software releases.
 The SDLC with DevOps involves continuous feedback and monitoring to ensure software quality.
 .
+.
