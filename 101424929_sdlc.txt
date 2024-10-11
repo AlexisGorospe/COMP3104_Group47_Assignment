@@ -1,0 +1,8 @@
+The importance of learning DevOps in the software development cycle is that we can have better teamwork and be able to collab with one another.
+This would help us be able to have better communication and would make teamwork more efficient.
+
+Another importance is that it would help increase our efficiency as a team, repetitive task as a team would make us better and be able 
+to focus delivering value to users. This would result in higher productivity.
+ 
+One final importance for learning DevOps is the Rapid Innovation, this enables quick expirementation and innovation, this makes team to
+implement changes and make new features, keeping up with users demands. 
