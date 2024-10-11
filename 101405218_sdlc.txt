@@ -1,0 +1,9 @@
+The importance of doing devops in the software development style 
+is that you are basically more efficient, and you can easily
+collaborate with your group.
+
+It can also reduce the overhead of IT, enforce the best security practices
+and make delivering projects a breeze.
+
+There are even studies about devops that show how working with it is better 
+than not working with it. 

@@ -1,0 +1,5 @@
+The devops course teaches about developer operations and how to do them.
+
+so far, we have learned aboout node package manager, git, and other things.
+
+the course code for devops is COMP3104. I think I am enjoying this course so far.
