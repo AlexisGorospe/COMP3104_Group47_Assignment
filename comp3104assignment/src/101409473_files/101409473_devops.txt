@@ -1,4 +1,4 @@
-This course provides a comprehensive introduction to DevOps principles, practices, and tools needed to succeed as a DevOps engineer.
+This course comprehensively introduces DevOps principles, practices, and tools needed to succeed as a DevOps engineer.
 By the end of the course, learners will be prepared to pursue DevOps job opportunities and solve complex business problems using industry-standard DevOps methods.
 
 Key topics covered include:
